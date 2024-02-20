@@ -11,5 +11,6 @@
 </div></br>
 
 ### Estudent Science Computer
+____________________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake.gif)
 
