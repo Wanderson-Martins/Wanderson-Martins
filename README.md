@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake.gif)
 ## Olá! eu sou Wanderson Martins 👋
 
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&show_icons=true&theme=radical)
