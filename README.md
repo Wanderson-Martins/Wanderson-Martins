@@ -1,7 +1,7 @@
 ## Olá! eu sou Wanderson Martins 👋
 
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&show_icons=true&theme=radical)
-
+### Estudent Science Computer
 ### Tecnologia Usandas
 
 <div style="display: inline_block"></br>
@@ -10,7 +10,7 @@
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
 
-### Estudent Science Computer
+
 ____________________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake.gif)
 
