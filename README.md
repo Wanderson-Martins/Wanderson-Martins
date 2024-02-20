@@ -3,7 +3,7 @@
 ### Estudent Science Computer
 
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api/top-langs/?Wanderson-Martins={Wanderson-Martins}&theme=blue-green
+![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?Wanderson-Martins={Wanderson-Martins}&theme=blue-green)
 ### Tecnologia Usandas 
 <div style="display: inline_block"></br>
 <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
