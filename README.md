@@ -1,6 +1,7 @@
+![Wanderson GitHu![Analista de dados](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/2e099cff-05af-4959-bbe7-9dae3915f152)
 # Olá! eu sou Wanderson Martins 👋
 ### Estudante do curso de Ciências da Computação
-![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
+b stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)
 ### Tecnologia Usandas 
 <div style="display: inline_block"></br>
