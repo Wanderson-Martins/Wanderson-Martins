@@ -9,6 +9,7 @@
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
 _________________________________
+
 ![Analista-de-dados](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/2d962e3d-2877-43a4-b22a-9ba5f7ba8937)
 
 _________________________________
