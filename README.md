@@ -1,4 +1,4 @@
-![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
+![123](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/ded97cdf-04ab-40af-ad9d-ab7d118fd0ff)
 
 
 # Olá! eu sou Wanderson Martins 👋
