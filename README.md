@@ -2,8 +2,6 @@
 
 ![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
 
-![Analista-de-dados](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/2d962e3d-2877-43a4-b22a-9ba5f7ba8937)
-
 ### Estudante do curso de Ciências da Computação
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)
