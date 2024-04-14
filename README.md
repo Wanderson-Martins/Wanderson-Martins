@@ -12,5 +12,7 @@
 <img align="center" alt="python" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
+
 _________________________________
+
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
