@@ -1,7 +1,5 @@
 # Olá! eu sou Wanderson Martins 👋
 
-![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
-
 ### Estudante do curso de Ciências da Computação
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)
@@ -12,5 +10,6 @@
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
 
+![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
 _________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
