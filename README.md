@@ -8,7 +8,7 @@ b stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&t
 <img align="center" alt="python" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
-![Wanderson GitHu![Analista de dados](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/2e099cff-05af-4959-bbe7-9dae3915f152)
+![Analista de dados](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/155445ad-be2f-475e-a5d9-56601d7c8b86)
 
 ____________________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
