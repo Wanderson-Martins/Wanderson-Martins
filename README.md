@@ -1,3 +1,6 @@
+![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
+
+
 # Olá! eu sou Wanderson Martins 👋
 
 ### Estudante do curso de Ciências da Computação
@@ -9,7 +12,5 @@
 <img align="center" alt="python" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
-
-![analista](https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/8029c7ec-694e-4e8b-8f69-c114d1f45f80)
 _________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
