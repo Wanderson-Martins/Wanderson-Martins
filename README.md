@@ -9,7 +9,6 @@ _________________________________
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)<br>
 
 ## Tecnologia Usandas 
-_________________________________
 <div style="display: inline_block"></br>
 <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="python" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
