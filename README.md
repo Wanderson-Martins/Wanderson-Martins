@@ -6,7 +6,7 @@ _________________________________
 
 ### Estudante do curso de Ciências da Computação
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
-![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)
+![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)<br><\br>
 ### Tecnologia Usandas 
 _________________________________
 <div style="display: inline_block"></br>
