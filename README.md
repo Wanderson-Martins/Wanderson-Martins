@@ -19,6 +19,8 @@ _________________________________
 
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
 
+_________________________________
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/b81e78a3-775e-483e-bc83-26f99a3c4edd.png" /></a>
 
 
