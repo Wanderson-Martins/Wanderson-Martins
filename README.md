@@ -15,6 +15,8 @@ _________________________________
 <img align="center" alt="python" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div></br>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/4ff99eb5-4412-49e6-9324-b0d941fe22a6.png" /></a>
+
 _________________________________
 
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
