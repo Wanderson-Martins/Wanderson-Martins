@@ -21,5 +21,5 @@ _________________________________
 
 _________________________________
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/760e5228-16de-439a-91c1-550047743df6.png" /></a>
+<figure><embed src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/131c25e6-3006-4082-a8fa-9aa0c4ec1a40.svg"></embed></figure>
 
