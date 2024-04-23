@@ -5,6 +5,9 @@
 _________________________________
 
 ## Estudante do curso de Ciências da Computação
+<img src="https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green" width="400" alt="Wanderson GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green" width="400" alt="Wanderson Top Languages" />
+
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)<br>
 
