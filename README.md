@@ -5,7 +5,7 @@
 _________________________________
 
 ## Estudante do curso de Ciências da Computação
-![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Martins&theme=blue-green)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/7542f20f-40fd-4389-801e-a8cd1aa18dca.png" width="300" height="auto" /></a>
 ![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Martins&theme=blue-green)<br>
 
 ## Tecnologia Usandas 
