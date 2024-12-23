@@ -21,9 +21,14 @@ _________________________________
 ![snake gif](https://github.com/Wanderson-Martins/Wanderson-Martins/blob/output/github-contribution-grid-snake-dark.svg)
 
 _________________________________
-<a href="https://wakatime.com">
-  <img align="center" width="45%" src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/2fd5aa29-b102-4f0f-916d-2f57b1af955d.png" alt="WakaTime Stats" />
-</a>
+<div style="text-align: center;">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/2fd5aa29-b102-4f0f-916d-2f57b1af955d.png" 
+         alt="WakaTime Stats" 
+         style="width: 60%; max-width: 800px; display: inline-block;" />
+  </a>
+</div>
+
 
  
   <h3>TEMPO DE CÓDIGO ⏳</h3>
