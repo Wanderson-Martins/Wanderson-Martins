@@ -28,3 +28,6 @@ _________________________________
 
 
   <table>
+<a href="https://wakatime.com">
+  <img align="center" width="45%" src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/97b1072b-d1a0-4e81-bbf7-3e1d3a5b649d.png" alt="WakaTime Stats" />
+</a>
