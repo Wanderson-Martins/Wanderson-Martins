@@ -28,6 +28,6 @@ _________________________________
 
 
   <table>
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SeuUsername&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Wanderson-Martins&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
 
 </a>
