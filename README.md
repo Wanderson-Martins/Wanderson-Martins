@@ -25,8 +25,13 @@ _________________________________
  
   <h3>TEMPO DE CÓDIGO ⏳</h3>
    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkamiGem&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
-<figure style="text-align: center;">
-  <embed src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/5c072fbb-7ce2-4cef-9484-993b55f6bfaa.svg" width="45%" style="display: block; margin: 0 auto;" />
-</figure>
 
+<div style="text-align: center;">
+  <iframe 
+    src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/5c072fbb-7ce2-4cef-9484-993b55f6bfaa.svg" 
+    width="45%" 
+    height="400" 
+    style="border: none;">
+  </iframe>
+</div>
 
