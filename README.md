@@ -1,8 +1,8 @@
 # Olá! eu sou Wanderson Martins 👋
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://github.com/Wanderson-Martins/Wanderson-Martins/assets/84239851/ded97cdf-04ab-40af-ad9d-ab7d118fd0ff" 
        alt="123" 
-       style="width: 50%; max-width: 400px; height: auto; display: block; margin: 0 auto;" />
+       style="width: 50%; max-width: 400px; height: auto;" />
 </div>
 
 
