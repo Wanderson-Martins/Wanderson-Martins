@@ -29,11 +29,12 @@ _________________________________
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/5fae92c5-de23-4392-82d1-10c1788a38dd.png" 
+    <img src="https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/13d91eb7-db2f-464c-8e83-da755fd31bcd.png" 
          alt="WakaTime Stats" 
          style="width: 80%; max-width: 1000px;" />
   </a>
 </div>
+
 
 
 
