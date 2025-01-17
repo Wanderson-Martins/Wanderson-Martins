@@ -36,6 +36,7 @@ _________________________________
 </div>
 
 
+[![WakaTime Stats](https://wakatime.com/share/@018efca6-9aea-4224-9c7b-71098e1d157b/13d91eb7-db2f-464c-8e83-da755fd31bcd.png)](https://wakatime.com)
 
 
 
